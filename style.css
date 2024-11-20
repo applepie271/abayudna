@@ -1,0 +1,266 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&family=Zhi+Mang+Xing&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.div1{
+    height: 120px;
+    background-color: #b8afa2;
+}
+.p1{
+display: flex;
+justify-content: center;
+padding-top: 30px ;
+font-weight: 400;
+font-family: 'Zhi Mang Xing';
+font-size: 80px;
+}
+.div2{
+display: flex;
+align-items: center;
+justify-content: center;
+background-image: url(img/kncc.png);
+background-repeat: no-repeat;
+background-size: 100%;
+height: 1125px;
+}
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/mzlff.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1120px;
+}
+.div4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/mb.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1120px;
+}
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/cc.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1125px;
+}
+.div6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/str.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1125px;
+}
+.div7{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/dg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1125px;
+}
+.div8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/teq.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1125px;
+}
+.div9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/dij.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1125px;
+}
+.p2{
+    text-align: center;
+    font-weight: 200;
+    width: 250px;
+    font-family: 'Tiny5';
+    font-size: 40px; 
+    background: linear-gradient(to bottom, #231111, #666666);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-600px, -90px);
+}
+.p3{
+    text-align: center;
+    font-weight: 200;
+    width: 250px;
+    font-family: 'Tiny5';
+    font-size: 40px; 
+    background: linear-gradient(to bottom, #666666, #231111);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(600px, 280px);
+}
+.p4{
+    text-align: center;
+    font-weight: 200;
+    width: 250px;
+    font-family: 'Tiny5';
+    font-size: 50px; 
+    background: linear-gradient(to bottom, #B69292, #364E71);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-600px, 260px);
+}
+.p5{
+    text-align: center;
+    font-weight: 200;
+    width: 250px;
+    font-family: 'Tiny5';
+    font-size: 50px; 
+    background: linear-gradient(to bottom, #B69292, #364E71);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(570px, -20px);
+}
+.p6{
+    text-align: center;
+    font-weight: 200;
+    width: 300px;
+    font-family: 'Tiny5';
+    font-size: 50px; 
+    background: linear-gradient(to bottom, #000000, #BA4272);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-650px, 200px);
+}
+.p7{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 30px; 
+    background: linear-gradient(to bottom, #091E53, #262932);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(0px, 100px);
+}
+.p8{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 30px; 
+    background: linear-gradient(to bottom, #091E53, #262932);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-20px, 150px);
+}
+.p9{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 30px; 
+    background: linear-gradient(to bottom, #091E53, #262932);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-850px, 230px);
+}
+.p10{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 30px; 
+    background: linear-gradient(to bottom, #091E53, #262932);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(-900px, 300px);
+}
+.p11{
+    text-align: center;
+    font-weight: 200;
+    width: 70;
+    font-family: 'Tiny5';
+    font-size: 50px; 
+    background: linear-gradient(to bottom, #B6B3B3, #C8C6C4);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(290px, 230px);
+}
+.p12{
+    text-align: center;
+    font-weight: 200;
+    width: 10;
+    font-family: 'Tiny5';
+    font-size: 35px; 
+    background: linear-gradient(to bottom, #293074, #2E1A32);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(0px, -200px);
+}
+.pudge{
+    transform: translate(1100px, -30px);
+    width: 300px;
+}
+.hook:hover{
+    animation: hook 0.2s infinite;
+}
+@keyframes hook{
+    0%{
+        transform: translate(1100px, -30px);
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: translate(1100px, -30px);
+        transform: rotate(360deg);
+    }
+}
+.p13{
+    text-align: center;
+    font-weight: 200;
+    width: 50;
+    font-family: 'Tiny5';
+    font-size: 50px; 
+    background: linear-gradient(to left, #1D282D, #6B3737);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   transform: translate(230px, 200px);
+}
+.p14{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 40px; 
+    background: linear-gradient(to right, #432321, #B08E8C);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.p15{
+    text-align: center;
+    font-weight: 200;
+    font-family: 'Tiny5';
+    font-size: 40px; 
+    color: #B08E8C;
+}
+.ogromnie{
+    width: 50;
+    transform: translate(-450px, -200px);
+}
+.yaitsa{
+    width: 50;
+    transform: translate(830px, -200px);
+    background: linear-gradient(to left, #432321, #B08E8C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.yoy{
+    width: 100;
+    transform: translate(-200px, 340px);
+}
